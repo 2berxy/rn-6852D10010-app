@@ -1,3 +1,12 @@
+<div align="center">
+
+<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/edb493fc-9aa2-423e-ad04-f7747abb28a6" /></kbd>
+
+<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/3ce21fd6-6b1f-4709-a1ce-8b52774d1b58" /></kbd>
+
+</center>
+</div>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
